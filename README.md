@@ -18,7 +18,7 @@ Here are a few things I've worked on:
 - Looking forward to internships and open-source contributions
 
 ## 📫 Connect with me
-- 💼 https://www.linkedin.com/in/nirmal-rao-t-89b240333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+-https://linkedin.com/in/nirmal-rao-t-89b240333
 - 📧 Email: nirmalraot35@gmail.com
 
 ---
